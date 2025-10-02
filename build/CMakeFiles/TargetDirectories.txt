@@ -1,8 +1,0 @@
-/home/nekit_013/github-classroom/is-itmo-c-24/labwork6-n1kitos013/build/CMakeFiles/edit_cache.dir
-/home/nekit_013/github-classroom/is-itmo-c-24/labwork6-n1kitos013/build/CMakeFiles/rebuild_cache.dir
-/home/nekit_013/github-classroom/is-itmo-c-24/labwork6-n1kitos013/build/lib/CMakeFiles/TravelLib.dir
-/home/nekit_013/github-classroom/is-itmo-c-24/labwork6-n1kitos013/build/lib/CMakeFiles/edit_cache.dir
-/home/nekit_013/github-classroom/is-itmo-c-24/labwork6-n1kitos013/build/lib/CMakeFiles/rebuild_cache.dir
-/home/nekit_013/github-classroom/is-itmo-c-24/labwork6-n1kitos013/build/bin/CMakeFiles/Travel.dir
-/home/nekit_013/github-classroom/is-itmo-c-24/labwork6-n1kitos013/build/bin/CMakeFiles/edit_cache.dir
-/home/nekit_013/github-classroom/is-itmo-c-24/labwork6-n1kitos013/build/bin/CMakeFiles/rebuild_cache.dir

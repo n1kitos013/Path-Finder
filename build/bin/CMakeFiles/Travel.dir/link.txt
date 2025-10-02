@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Travel.dir/main.cpp.o -o Travel  -Wl,-rpath,/usr/local/lib ../lib/libTravelLib.a /usr/local/lib/libcpr.a /usr/local/lib/libcurl.so.4.8.0 /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
